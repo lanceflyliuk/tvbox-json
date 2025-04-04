@@ -47,6 +47,26 @@
         {
             "url": "https://d.kstore.space/download/6474/tvbox/api.json",
             "name": "小白"
+        },
+        {
+            "url": "http://bp.tvbox.cam/",
+            "name": "小白备用"
+        },
+        {
+            "url": "https://mpanso.me/DEMO.json",
+            "name": "小米"
+        },
+        {
+            "url": "http://ok321.top/tv",
+            "name": "ok321"
+        },
+        {
+            "url": "https://tv.xn--yhqu5zs87a.top",
+            "name": "菜妮丝"
+        },
+        {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "南风"
         }
     ]
 }
